@@ -2,14 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am a Data Scientist currently working in the sports betting industry, but also with experience in the e-commerce sector.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bfern1994@gmail.com](mailto:bfern1994@gmail.com)
