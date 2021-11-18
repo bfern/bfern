@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-I am a Data Scientist currently working in the sports betting industry, but also with experience in the e-commerce sector.
+I am a Data Scientist who has predominantly worked in the sports betting industry, but also with experience in the e-commerce sector. To find out more about me, check out my first blog post or feel free to get in touch!
 
 ### Contact me
 
