@@ -15,7 +15,7 @@ I think it is best to think about these tools as if you were physically in the o
 
 What about the differences between email and Slack. In my opinion, the golden question to ask yourself is: do you want there to be an audit trail? If the answer is yes, then you should use email. Email is for messages that are to the point without discussion that can be found again easily. Slack is for quick questions/brief discussions about a project, company announcements or just keeping morale up - all things that don't need to be retrieved in the future. A piece of advice that I would add is that email and Slack messages shouldn't expect an instant reply - they can be very distracting and cause you to lose flow, and so I recommend instead just checking them periodically.
 
-Finally, I would like to add some tips about using Slack in particular. Firstly, keep the number of channels minimal. People can easily end up creating too many channels and it can be difficult to keep track of the announcements in the channels that actually matter. Therefore delete channels once they become no longer irrelevant, for example a channel for a certain project that is finished. Another handy trick which helps with finding channels is to use prefixes - such as "team-" for specific teams, "project-" for projects and "social-" for various water cooler topics.
+Finally, I would like to add some tips about using Slack in particular. Firstly, keep the number of channels minimal. People can easily end up creating too many channels and it can be difficult to keep track of the announcements in the channels that actually matter. Therefore delete channels once they become no longer irrelevant, for example a channel for a certain project that is finished. Another handy trick which helps with finding channels is to use prefixes - such as "team-" for specific teams, "project-" for projects and "social-" for various water cooler topics - this is suggested on Slack's website. [1]
 
 ## Workflow
 
@@ -37,7 +37,7 @@ Finally, I will very briefly mention a couple of other processes that are defini
 
 There are loads of tools that explain what a good review process looks like. The trouble I have is that there are so many, often with so many points that the review process takes longer than the actual work itself! Also, a lot of these focus on the code itself, which is of course important but I will just leave that as one main point really under "coding standards", which is up to the team to define.
 
-The easiest way to do a review is to through a checklist and ensure that the following has been done:
+The easiest way to do a review is through a checklist and ensure that the following has been done:
 * The work does what the ticket says
 * Coding standards are followed
 * The code is tested (where required)
@@ -53,6 +53,8 @@ Trying to mimic a spontaneous conversation is obviously a difficult task. And as
 
 To support this I would suggest using a slack channel where people can share any interesting new concepts that they come across, possible conferences to attend or to simply ask questions and promote discussion.
 
-## Summary
+## Final Words
 
-That was quite a long article, but if you've made it this far then congrats and I hope at least some of the sections may provide some use for you and your team.
+That was quite a long article, but if you've made it this far then congrats and I hope at least some of the sections may provide some use for you and your team. The ideas that I have suggested in this post have been influenced both directly through situations I've been in at work and indirectly through research that I have done over the years. This research has mostly consisted of blog reading, and therefore I can't take full credit for all of these ideas and I appreciate all the great posts that have influenced this.
+
+[1] - https://slack.com/intl/en-gb/resources/using-slack/how-to-organize-your-slack-channels
